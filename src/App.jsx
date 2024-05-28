@@ -1,12 +1,11 @@
-import { useState } from 'react'
-
-
+import News from "./News"
 function App() {
  
 
   return (
     <>
       <h2>Fun 😜</h2>
+      <News />
     </>
   )
 }
